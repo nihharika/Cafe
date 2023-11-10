@@ -25,6 +25,7 @@ body{
   display: flex;
   justify-content: space-between;
 }
-.navbar ul{
-  
+.navbar .logo{
+  display: flex; 
+  gap: 30px;
 }
